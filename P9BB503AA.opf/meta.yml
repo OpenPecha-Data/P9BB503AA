@@ -1,0 +1,31 @@
+id: P9BB503AA
+initial_creation_type: input
+source_metadata:
+  title: Hagiography of gSer mdog paṇ chen Shākya mchog ldan (1428–1507)
+  author: rje btsun kun dga grol mchog
+  description: 'Digital version 4.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2012-09); generated from Wylie input, head entries supplemented and linebreaks
+    encoded, revision in process,
+
+    no thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Volker Caumanns (vc)
+  - Editorial process:Volker Caumanns (vc), Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:Volker Caumanns (vc)
+  text_witnesses: https://sakyaresearch.org/sources/282
+  bases:
+    0df7:
+      title: Hagiography of gSer mdog paṇ chen Shākya mchog ldan (1428–1507)
+      order: 1
+      base_file: 0df7.txt
+created_at: '2022-04-15T19:02:24.062252'
+last_modified_at: '2022-04-15T19:02:24.062260'
+quality: null
